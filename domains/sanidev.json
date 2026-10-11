@@ -4,6 +4,7 @@
     "email": "nextgenitware@gmail.com"
   },
   "records": {
-    "CNAME": "sani-forge.vercel.app"
+    "CNAME": "sani-forge.vercel.app",
+    "TXT": "vc-domain-verify=sanidev.is-a.dev,b7a3ac2dfd187ccb9643"
   }
 }
